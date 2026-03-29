@@ -10,7 +10,7 @@ dependencies = [
     "omegaconf>=2.3.0",
     "pip>=24.3.1",
     "python-dotenv>=1.0.1",
-    "requests",
+    "requests == 2.32.5",
 ]
 
 [build-system]
